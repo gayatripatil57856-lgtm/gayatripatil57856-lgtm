@@ -123,6 +123,7 @@ Smart Agriculture Platform for Farmers.
 - ⚛ React
 - 🚀 REST APIs
 ---
+---
 
 # 📊 Developer Dashboard
 
@@ -163,7 +164,13 @@ Smart Agriculture Platform for Farmers.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 </p>
+
+
+
+
 ---
+
+
 
 # 🎯 2026 Goals
 
