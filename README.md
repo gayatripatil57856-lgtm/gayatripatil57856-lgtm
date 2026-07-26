@@ -274,14 +274,13 @@ Java-based ATM PIN verification system.
 
 <p align="center">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 </p>
-
 <p align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
