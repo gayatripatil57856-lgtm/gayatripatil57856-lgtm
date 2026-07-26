@@ -73,160 +73,105 @@ I don't just write code—I build solutions that make a difference. 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![leetcode](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 # 🚀 Featured Projects
 
-## 📚 DeskGuard – Smart Library Seat Allocation System
+<table>
+<tr>
+<td width="50%">
 
-A web-based smart library management system that helps students reserve seats, manage availability, and improve library efficiency.
+### 🎤 Voice Health Insights AI
+AI-powered healthcare platform that predicts diseases using voice biomarker analysis.
 
-**Tech Stack:** Java • JDBC • MySQL • HTML • CSS • JavaScript
+**Tech Stack**
 
----
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
-## 🩺 Voice Health Insights AI
+🔗 Repository:
+https://github.com/gayatripatil57856-lgtm/voice-health-insights-10
 
-An AI-powered health platform that analyzes voice recordings to provide health insights with an interactive dashboard and modern UI.
+</td>
 
-**Tech Stack:** React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
+<td width="50%">
 
----
+### 💼 InternVault AI
+AI-powered Digital Experience Passport for students with Resume Builder & Readiness Score.
 
-## 🎨 Framer Motion Landing Page
+**Tech Stack**
 
-A modern responsive landing page featuring premium animations, smooth transitions, and interactive UI components.
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-**Tech Stack:** React • Framer Motion • Tailwind CSS
+🚧 Currently Building
 
----
+</td>
+</tr>
 
-# 📊 GitHub Stats
+<tr>
+<td width="50%">
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight"/>
+### 🌾 KrishiMitra
+Smart Agriculture platform helping farmers with schemes and crop guidance.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight"/>
-</p>
+**Tech Stack**
 
----
+`HTML` `CSS` `JavaScript`
 
-# 🔥 GitHub Streak
+</td>
 
-<p align="center">
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight"/>
+### 🏦 ATM PIN Verification
+Java console project implementing secure ATM authentication.
 
-</p>
+**Tech Stack**
 
----
+`Core Java`
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- 🌿 Spring Boot
-- 🗄️ SQL
+- ☕ Java Full Stack Development
+- 🌿 Spring Boot & REST APIs
 - 📚 Data Structures & Algorithms
-- ☁️ Deployment
-- 🚀 Backend Development
-  ---
-
-# 💡 Developer Mindset
-
-```java
-public class Developer {
-
-    public static void main(String[] args) {
-
-        while(true){
-            Learn();
-            Build();
-            Improve();
-
-            if(success()){
-                break;
-            }
-        }
-
-        System.out.println("Never Stop Learning 🚀");
-    }
-}
-```
+- ⚛ React + TypeScript
+- 🚀 Building Full Stack Projects
 
 ---
 
-# 🌟 Fun Fact
+## 🎯 2026 Goals
 
-💡 I enjoy turning ideas into real-world applications and believe that every challenge is an opportunity to learn something new.
-
----
-
-# 🎯 2026 Goals
-
+- ✅ Secure Java Full Stack Internship
+- ✅ Build 10+ Production Projects
 - ✅ Master Spring Boot
-- ✅ Strengthen DSA & Problem Solving
-- ✅ Build Scalable Full Stack Applications
+- ✅ Solve 500+ DSA Problems
 - ✅ Contribute to Open Source
-- ✅ Secure a Java Full Stack Internship
 
 ---
 
-# 📫 Let's Connect
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send_Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-
-<i>"Success doesn't come from what you know, it comes from what you consistently build and improve."</i>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories.
-
+<img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<h3 align="center">
 
-Thanks for visiting my profile ❤️
 
-Happy Coding 🚀
-
-</h3>
