@@ -160,18 +160,22 @@ Secure Java-based ATM PIN Verification System.
 - ☁ Git & GitHub
   ---
 
+
+
 # 📊 Developer Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight" />
+</p>
 
 # 📈 GitHub Summary
 
