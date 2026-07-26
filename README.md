@@ -38,39 +38,38 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👩‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,cpp" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+## ☕ Java Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
+![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-Core Java • Advanced Java • JDBC • Servlets • Spring Boot
+## 🗄️ Database
 
-### 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+## 🛠️ Tools
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,leetcode" />
-</p>
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 # 🚀 Featured Projects
 
