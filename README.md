@@ -132,7 +132,8 @@ Secure ATM PIN Verification System.
 # 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
   <img width="49%" src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -145,7 +146,7 @@ Secure ATM PIN Verification System.
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
@@ -155,6 +156,12 @@ Secure ATM PIN Verification System.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true" />
 </p>
+
+
+
+---
+
+
 # 🎯 2026 Goals
 
 - 🚀 Secure a Java Full Stack Developer Internship
