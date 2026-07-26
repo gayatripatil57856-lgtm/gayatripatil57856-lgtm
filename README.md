@@ -266,16 +266,29 @@ Java-based ATM PIN verification system.
 
 🚀 VS Code
 
-# 📊 GitHub Dashboard
+# 📊 Developer Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
