@@ -89,8 +89,7 @@ AI-powered healthcare platform that predicts diseases using voice biomarker anal
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
-🔗 Repository:
-https://github.com/gayatripatil57856-lgtm/voice-health-insights-10
+
 
 </td>
 
@@ -153,7 +152,25 @@ Java console project implementing secure ATM authentication.
 - ✅ Solve 500+ DSA Problems
 - ✅ Contribute to Open Source
 
----
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+
+</p>
+
+<p
 
 ## 📊 GitHub Analytics
 
