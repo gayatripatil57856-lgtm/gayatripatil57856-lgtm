@@ -1,59 +1,111 @@
-# Hi 👋, I'm Gayatri Patil
+<h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
 
-### 💻 Java Full Stack Developer | Computer Science Engineering Student
+<h3 align="center">💻 Java Full Stack Developer | Computer Science Engineering Student 🇮🇳</h3>
 
-🚀 Passionate about building scalable web applications and continuously learning modern backend technologies.
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn
-- 📧 Email
-- 💻 GitHub
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 👩‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,javascript" />
+</p>
 
 ### 🎨 Frontend
-HTML5 • CSS3 • React • Tailwind CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
 ### ⚙️ Backend
-Core Java • Advanced Java • JDBC • Servlets • Spring Boot
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+**Core Java • Advanced Java • JDBC • Servlets • Spring Boot**
 
 ### 🗄️ Database
-MySQL • SQL
 
-### 🛠️ Tools
-Git • GitHub • VS Code • Eclipse • Postman • Canva
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
----
+### 🛠 Tools
 
-## 🚀 Featured Projects
-
-📚 **DeskGuard – Smart Library Seat Allocation System**
-
-🎤 **Voice Health Insights**
-
-🎓 **InternVault AI – Digital Experience Passport**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Projects
 
-(Stats Cards)
+### 📚 DeskGuard
+Smart Library Seat Allocation System
+
+### 🎤 Voice Health Insights
+AI-powered Voice Health Analysis Platform
+
+### 🎓 InternVault AI
+Digital Experience Passport for Students
 
 ---
 
-## 🔥 Contribution Graph
+# 📊 GitHub Stats
 
-(Contribution Snake / Graph)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### ⭐ "Code. Learn. Build. Repeat."
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+
+---
+
+<h3 align="center">
+
+⭐ Code • Learn • Build • Repeat ⭐
+
+</h3>
