@@ -291,7 +291,11 @@ Java-based ATM PIN verification system.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=15"/>
+</p>
 
 # 🏆 GitHub Trophies
 
