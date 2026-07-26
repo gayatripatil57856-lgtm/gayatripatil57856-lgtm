@@ -159,23 +159,51 @@ Secure Java-based ATM PIN Verification System.
 - 🚀 REST APIs
 - ☁ Git & GitHub
   ---
+  # 📊 Developer Dashboard
 
+<table>
+<tr>
+<td width="50%">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=github_dark" />
 
-# 📊 Developer Dashboard
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=github_dark" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=github_dark&utcOffset=5.5" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=github_dark" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&style=for-the-badge&color=blue"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight" />
-</p>
+
+
+
+
+
 
 # 📈 GitHub Summary
 
