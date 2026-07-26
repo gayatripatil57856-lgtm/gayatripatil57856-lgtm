@@ -159,36 +159,33 @@ Secure Java-based ATM PIN Verification System.
 - 🚀 REST APIs
 - ☁ Git & GitHub
   ---
-  # 📊 Developer Dashboard
+# 📊 Developer Dashboard
 
 <table>
 <tr>
-<td width="50%">
 
+<td width="60%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=github_dark" />
-
 </td>
 
-<td width="50%">
-
+<td width="40%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=github_dark" />
-
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
+<td width="60%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=github_dark&utcOffset=5.5" />
-
 </td>
 
-<td width="50%">
-
+<td width="40%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=github_dark" />
-
 </td>
+
 </tr>
+
 </table>
 
 <p align="center">
@@ -196,8 +193,14 @@ Secure Java-based ATM PIN Verification System.
 </p>
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&style=for-the-badge&color=blue"/>
 </p>
+
+
 
 
 
