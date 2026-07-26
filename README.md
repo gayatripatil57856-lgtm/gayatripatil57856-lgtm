@@ -36,7 +36,7 @@ I don't just write code—I build solutions that create real-world impact. 🚀
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gayatri-patil-3baaa9388?">
+<a href="https://www.linkedin.com/in/gayatri-patil-3baaa9388">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -268,7 +268,7 @@ Java-based ATM PIN verification system.
 # 📊 Developer Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
   
@@ -291,7 +291,8 @@ Java-based ATM PIN verification system.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -299,7 +300,7 @@ Java-based ATM PIN verification system.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
