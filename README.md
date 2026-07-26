@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
+-<h1 align="center">
+Hi 👋, I'm Gayatri Patil
+</h1>
 
 <h3 align="center">
 💙 Java Full Stack Developer | Computer Science Engineering Student | India 🇮🇳
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
+I don't just write code — I build solutions that create real-world impact. 🚀
+</p>
+
+<p align="center">
+
 <a href="https://github.com/gayatripatil57856-lgtm">
-<img src="https://img.shields.io/github/followers/gayatripatil57856-lgtm?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&style=for-the-badge&color=blue"/>
+<a href="https://www.linkedin.com/in/gayatri-patil-3baaa9388">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gayatripatil57856@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-💙 Passionate Computer Science Engineering Student
+🎓 Computer Science Engineering Student
 
-☕ Java Full Stack Developer
+💙 Passionate Java Full Stack Developer
 
-🌱 Currently Learning Spring Boot & DSA
+🌱 Currently Learning Spring Boot, React & DSA
 
-🚀 Love Building Real World Projects
+🚀 Building Real World Projects
+
+💡 Love solving coding problems
 
 🎯 Goal: Software Engineer
 
@@ -34,21 +50,33 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+- 💼 LinkedIn
+- 📧 Gmail
+- 🐙 GitHub
 
-<a href="https://www.linkedin.com/in/gayatri-patil-3baaa9388">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="mailto:gayatripatil57856@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+# 🛠 Tech Highlights
 
-<a href="https://github.com/gayatripatil57856-lgtm">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+✔ Java
 
-</p>
+✔ Spring Boot
+
+✔ React
+
+✔ SQL
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Git & GitHub
+
+✔ VS Code
+
+✔ Eclipse
 ---
 
 # 💻 Tech Stack
@@ -64,13 +92,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ☕ Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄 Database
 
@@ -82,173 +110,84 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎤 Voice Health Insights AI
-🩺 AI-powered healthcare platform using voice analysis.
+🩺 AI-powered healthcare platform that analyses voice patterns and provides health insights.
 
 **Tech Stack:** React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
 
 ---
 
 ### 🎓 InternVault AI
-Digital Internship Passport with AI-powered features.
+AI-powered Digital Internship Passport for students with Resume Builder and QR Portfolio.
 
 **Tech Stack:** React • TypeScript • Tailwind CSS • Framer Motion
 
 ---
 
 ### 📚 DeskGuard
-Smart Library Seat Allocation System.
+Smart Library Seat Allocation & Management System.
 
 **Tech Stack:** Java • JDBC • MySQL • HTML • CSS • JavaScript
 
 ---
 
 ### 🌾 KrishiMitra
-Smart Agriculture Platform for Farmers.
+Agriculture platform designed to help farmers with modern digital solutions.
 
 **Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 💳 ATM PIN Verification
+Secure Java-based ATM PIN Verification System.
+
+**Tech Stack:** Core Java
 
 ---
 
 # 🌱 Currently Learning
 
 - 🌿 Spring Boot
-- ☕ Advanced Java
 - 📚 Data Structures & Algorithms
 - ⚛ React
 - 🚀 REST APIs
----
----
-
-
+- ☁ Git & GitHub
+  ---
 
 # 📊 Developer Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+# 📈 GitHub Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📌 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gayatripatil57856-lgtm&theme=tokyonight"/>
-</p>
-
-
-
-
----
-
-
-
-# 🎯 2026 Goals
-
-- ✅ Land a Java Full Stack Internship
-- ✅ Build 10+ Real World Projects
-- ✅ Master Spring Boot & REST APIs
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Strengthen System Design Fundamentals
-
----
-
-# 💡 Developer Mindset
-
-```java
-public class GayatriPatil {
-
-    public static void main(String[] args) {
-
-        while (!success) {
-
-            Learn();
-            Practice();
-            BuildProjects();
-            ImproveSkills();
-
-            success = NeverGiveUp();
-        }
-
-        System.out.println("Dream • Code • Build 🚀");
-    }
-
-    static boolean NeverGiveUp() {
-        return false;
-    }
-}
-```
-
----
-
-# 💬 Favourite Quote
-
-> **"Success isn't built in a day. It's built every day through consistent learning, coding, and improving." 🚀**
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gayatri-patil-3baaa9388">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gayatripatil57856@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gayatripatil57856-lgtm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
-
-<p align="center">
-💙 <b>Always Learning • Always Building • Always Growing</b> 💙
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
