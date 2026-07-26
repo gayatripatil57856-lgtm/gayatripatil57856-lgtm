@@ -161,46 +161,23 @@ Secure Java-based ATM PIN Verification System.
   ---
 # 📊 Developer Dashboard
 
-<table>
-<tr>
-
-<td width="60%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=github_dark" />
-</td>
-
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=github_dark&hide_border=true" />
-</td>
-</tr>
-
-<tr>
-
-<td width="60%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gayatripatil57856-lgtm&theme=github_dark&utcOffset=5.5" />
-</td>
-
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=github_dark&hide_border=true" />
-</td>
-
-</tr>
-
-</table>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=github-dark-blue&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=github-dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&style=for-the-badge&color=blue"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 
 
