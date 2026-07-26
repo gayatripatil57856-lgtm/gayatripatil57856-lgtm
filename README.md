@@ -163,14 +163,33 @@ Secure Java-based ATM PIN Verification System.
 
 # 📊 Developer Dashboard
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| 🚀 Profile | 💻 Details |
+|------------|------------|
+| 👩‍💻 **Name** | Gayatri Patil |
+| 🎓 **Role** | Computer Science Engineering Student |
+| 💙 **Specialization** | Java Full Stack Developer |
+| 🌱 **Currently Learning** | Spring Boot, React, DSA |
+| 🎯 **Goal** | Software Engineer |
+| 📍 **Location** | India 🇮🇳 |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true" />
-</p>
+### ⚡ Coding Journey
+
+- 💻 Java Full Stack Development
+- 🌐 HTML • CSS • JavaScript • React
+- ☕ Spring Boot
+- 🗄️ MySQL
+- 📚 Data Structures & Algorithms
+- 🚀 Building Real World Projects
+
+### 🏆 2026 Goals
+
+- ✅ Build 10+ Full Stack Projects
+- ✅ Master Spring Boot
+- ✅ Improve DSA
+- ✅ Crack a Software Engineer Internship
+- ✅ Contribute to Open Source
+
+> **"Code. Learn. Build. Repeat."** 🚀
 
 ---
 
