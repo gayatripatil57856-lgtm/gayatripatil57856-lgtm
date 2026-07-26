@@ -169,9 +169,8 @@ Secure Java-based ATM PIN Verification System.
 </td>
 
 <td width="40%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gayatripatil57856-lgtm&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripatil57856-lgtm&layout=compact&theme=github_dark&hide_border=true" />
 </td>
-
 </tr>
 
 <tr>
