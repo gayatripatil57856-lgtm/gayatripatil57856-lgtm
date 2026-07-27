@@ -13,6 +13,7 @@ Passionate about building scalable web applications and solving real-world probl
 </p>
 
 <p align="center">
+
 <a href="https://github.com/gayatripatil57856-lgtm">
 <img src="https://img.shields.io/github/followers/gayatripatil57856-lgtm?label=Followers&style=for-the-badge"/>
 </a>
@@ -20,21 +21,18 @@ Passionate about building scalable web applications and solving real-world probl
 <a href="https://github.com/gayatripatil57856-lgtm">
 <img src="https://komarev.com/ghpvc/?username=gayatripatil57856-lgtm&style=for-the-badge&color=blue"/>
 </a>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-💙 Passionate Java Full Stack Developer
-
-🎓 Computer Science Engineering Student
-
-🌱 Currently learning Spring Boot, React, SQL & DSA
-
-🚀 Love building real-world projects
-
-🎯 Goal: Become a Software Engineer
+- 💙 Passionate Java Full Stack Developer
+- 🎓 Computer Science Engineering Student
+- 🌱 Currently learning Spring Boot, React, SQL & DSA
+- 🚀 Love building real-world projects
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
@@ -57,13 +55,75 @@ Passionate about building scalable web applications and solving real-world probl
 </p>
 
 ---
+
 # 💻 Tech Stack
+
+## 🎨 Frontend
+
+| Technology | Logo |
+|------------|------|
+| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="45"/> |
+| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="45"/> |
+| JavaScript | <img src="https://skillicons.dev/icons?i=js" width="45"/> |
+| TypeScript | <img src="https://skillicons.dev/icons?i=ts" width="45"/> |
+| React.js | <img src="https://skillicons.dev/icons?i=react" width="45"/> |
+
+---
+
+## ⚙ Backend
+
+| Technology | Logo |
+|------------|------|
+| Java | <img src="https://skillicons.dev/icons?i=java" width="45"/> |
+| Spring Boot | <img src="https://skillicons.dev/icons?i=spring" width="45"/> |
+| Node.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> |
+| Express.js | <img src="https://skillicons.dev/icons?i=express" width="45"/> |
+
+---
+
+## 🗄 Database
+
+| Technology | Logo |
+|------------|------|
+| MySQL | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> |
+| MongoDB | <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> |
+
+---
+
+## 💻 Programming Languages
+
+| Language | Logo |
+|----------|------|
+| Java | <img src="https://skillicons.dev/icons?i=java" width="45"/> |
+| JavaScript | <img src="https://skillicons.dev/icons?i=js" width="45"/> |
+| TypeScript | <img src="https://skillicons.dev/icons?i=ts" width="45"/> |
+
+---
+
+## 🛠 Tools & IDEs
+
+| Tool | Logo |
+|------|------|
+| Git | <img src="https://skillicons.dev/icons?i=git" width="45"/> |
+| GitHub | <img src="https://skillicons.dev/icons?i=github" width="45"/> |
+| VS Code | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> |
+| Eclipse | <img src="https://skillicons.dev/icons?i=eclipse" width="45"/> |
+
+---
+
+## 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,mysql,mongodb,nodejs,express,git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=spring,react,mysql"/>
 
 </p>
+
+- 🌱 Spring Boot
+- ⚛ React
+- 🗄 SQL
+- 📚 Data Structures & Algorithms
+- 🔗 REST APIs
 
 ---
 
@@ -71,7 +131,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 ## 🎤 Voice Health Insights AI
 
-🩺 AI-powered healthcare platform that analyses voice patterns and provides health insights.
+AI-powered healthcare platform that analyses voice patterns and provides health insights.
 
 **Tech Stack**
 
@@ -81,7 +141,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 ## 🎓 InternVault AI
 
-AI-powered Digital Experience Passport for students with Resume Builder, QR Portfolio and Internship Readiness Score.
+AI-powered Digital Internship Passport for students with Resume Builder, QR Portfolio and Internship Readiness Score.
 
 **Tech Stack**
 
@@ -119,26 +179,20 @@ Secure ATM PIN Verification System.
 
 ---
 
-# 🌱 Currently Learning
-
-- 🌿 Spring Boot
-- ⚛ React
-- 📚 Data Structures & Algorithms
-- 🗄 SQL
-- 🔗 REST APIs
-- ☁ Git & GitHub
-
----
 # 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gayatripatil57856-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=gayatripatil57856-lgtm&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gayatripatil57856-lgtm&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -146,7 +200,9 @@ Secure ATM PIN Verification System.
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gayatripatil57856-lgtm&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -154,13 +210,12 @@ Secure ATM PIN Verification System.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatripatil57856-lgtm&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-
-
 ---
-
 
 # 🎯 2026 Goals
 
@@ -175,21 +230,16 @@ Secure ATM PIN Verification System.
 
 # 💼 What I Do
 
-💙 Java Full Stack Development
-
-⚛ React Frontend Development
-
-🌱 Spring Boot Backend Development
-
-🗄 Database Design (MySQL & MongoDB)
-
-🚀 Building Modern Web Applications
-
-📚 Continuous Learning
+- ☕ Java Full Stack Development
+- ⚛ React Frontend Development
+- 🌱 Spring Boot Backend Development
+- 🗄 MySQL & MongoDB
+- 🚀 Building Modern Web Applications
+- 📚 Continuous Learning
 
 ---
 
-# 📌 Favourite Technologies
+# 💡 Favourite Technologies
 
 ☕ Java
 
@@ -201,26 +251,34 @@ Secure ATM PIN Verification System.
 
 🐙 Git & GitHub
 
-💻 VS Code
+💙 VS Code
 
 ---
 
-# 💡 Developer Mindset
+# 💬 Developer Mindset
 
 ```java
 public class GayatriPatil {
+
+    static boolean success = false;
 
     public static void main(String[] args) {
 
         while (!success) {
 
-            Learn();
-            Build();
-            Improve();
+            learn();
+            build();
+            improve();
+
+            success = true;
         }
 
         System.out.println("Dream • Code • Build 🚀");
     }
+
+    static void learn() {}
+    static void build() {}
+    static void improve() {}
 }
 ```
 
