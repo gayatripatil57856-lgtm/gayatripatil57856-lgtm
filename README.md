@@ -1,16 +1,30 @@
 <div align="center">
 
-# Hi 👋 I'm Gayatri Patil
+# 👋 Hi, I'm Gayatri Patil
 
-### 💻 Java Full Stack Developer | CS Engineering Student | Open Source Learner
+### 💻 Java Full Stack Developer | CS Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Computer+Science+Engineering+Student;Frontend+%2B+Backend+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;CS+Engineering+Student;Frontend+Developer;Always+Learning+New+Things"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00E5FF&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<br>
 
-</div>
+```java
+// Full-Stack Developer
 
----
+const dev = {
+    name: "Gayatri Patil",
+    role: "CS Engineering Student",
+    stack: "Java Full Stack",
+    skills: [
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    motto: "Code. Coffee. Repeat."
+};
+
+
 
 ## 👩‍💻 About Me
 
